@@ -1,0 +1,16 @@
+Column,Description
+Customer_ID,Unique customer identifier
+Age,Age of customer
+Gender,Gender of customer
+Marital_Status,Marital status
+Employment_Status,Employment category
+Annual_Income,Annual income in INR
+Loan_Amount,Loan amount requested
+Loan_Term_Months,Loan repayment duration in months
+Credit_Score,Credit score of customer
+Existing_Loans,Number of existing loans
+Missed_Payments,Past missed EMI/payments
+Debt_to_Income_Ratio,Debt to income ratio
+Loan_Purpose,Purpose of loan
+Residential_Status,Residential ownership status
+Default_Risk,Credit default risk category
